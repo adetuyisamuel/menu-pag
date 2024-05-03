@@ -1,0 +1,26 @@
+body{background-color: rgb(1, 5, 15);
+color: antiquewhite;
+align-content: center;
+margin: 20px;
+max-width: 600px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+form{padding: 6px;}
+.input{margin-left: 10px;
+display: block;
+outline-color: black;
+background-color: rgb(73, 70, 66);
+width: 200px;
+height: 20px;
+ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+ button{background-color: rgb(13, 14, 15);
+
+width: 600px;
+margin-top: 5px;
+border-style: inset;
+border-radius: 14px;
+font-size: larger;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style:oblique ;
+color:whitesmoke ;}

@@ -1,0 +1,14 @@
+body{align-content: center;}
+div{margin: 10px;
+border: 2px solid black;
+width: 250px;
+height: 200px;
+text-align: center;
+background-color: #1a1a18;
+box-shadow: 5px 5px 5px 5px rgb(10, 10, 51);
+font-size: larger;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+input{padding: 7px;
+;}
+#start,#stop,#reset{padding-left

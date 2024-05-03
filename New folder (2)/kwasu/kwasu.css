@@ -1,0 +1,82 @@
+body{background-image: url(kwasu.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    ;
+}
+#kwasu{margin: 20px;
+font-size:xx-large;
+margin-bottom: 0%;
+letter-spacing: px
+;
+color: green;
+
+
+}
+h3{margin-top:0%;
+color: rgb(170, 107, 25);}
+
+div{border: 1px solid black;
+    margin-top :50%;
+ margin-bottom:50% ;
+margin-left: 50%;
+margin-right: 50%;
+height: 400px;
+width: 280px;
+background-color: whitesmoke;
+border: 0px outset; 
+border-radius: 12px;
+align-content: center;}
+
+img{height: 50px;
+float: left;
+border-right: 1px solid black;
+padding-right: 10px;
+margin: 20px;
+}
+p{margin:  25px;
+margin-bottom: 0%;
+text-align:center ;
+margin-left:0%;
+margin-right:0%;
+}
+
+#p{margin-top: 0%;
+align-content: center;
+margin-bottom: 20px;}
+input{
+width: 250px ;
+height: 30px;
+border-radius: 5px;
+margin: 10px;
+border: 1px solid rgb(194, 190, 184);
+
+background-color: transparent;
+outline-color: aliceblue;
+}
+.hr{margin: 10px;
+background-color: transparent;
+}
+span{text-overflow: hidden;}
+hr{margin-top: 20px;}
+button{text-align: center;
+align-content: right;}
+.button{
+    margin-left: 30px;
+}
+#button{margin-right: 5px;
+    
+height: 30px;
+width: 150px;
+;
+border: 1px solid rgb(38, 199, 38);
+color:rgb(32, 216, 32);}
+#login{width: 55px;
+height: 40px;
+margin-left: 25px;
+margin-right: 0px;
+background-color: rgb(8, 226, 8);
+border:0px outset;
+border-radius: 5px;
+color: aliceblue;}
+#login:hover{color: green;}
+a:active{color: red;}
